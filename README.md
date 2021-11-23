@@ -1,7 +1,7 @@
 # Portfolio
-This is Joseph Mallari's Project. Using Html and Css and Bootstarp.
+This portfolio is for TECH I.S.'s students. Learn about HTML / CSS / Bootstap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
+[Visit Demo Website Hosted by Heroku](https://portfolio-mallari.herokuapp.com/#)
 
-Heroku Deployment [https://portfolio-mallari.herokuapp.com/#project]
 
 ##Technology used here
 
@@ -9,5 +9,9 @@ Html
 
 Css
 
-## Not require to install any other software.
-![Screenshot (192)](https://user-images.githubusercontent.com/93685911/142968329-6c7b6ca2-1d94-4303-b177-e8069ba96050.png)
+## Not need to install any other software.
+
+## How to use?
+Customize and create your own original portfolio. Take on various challenges such as changing colors, adding effects, and changing designs. Just include ABOUT, PROJECTS, and CONTACT information in your portfolio and don't get too complicated. Simple is the best.
+![ss-webpage](https://user-images.githubusercontent.com/93685911/142970833-f5f9aff0-ee32-4f4c-98d9-9b10c2e1b2cb.png)
+
