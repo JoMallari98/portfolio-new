@@ -1,6 +1,6 @@
 # Portfolio
 This portfolio is for TECH I.S.'s students. Learn about HTML / CSS / Bootstap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
-[Visit Demo Website Hosted by Heroku](https://portfolio-mallari.herokuapp.com/#)
+[Visit Demo Website Hosted by Heroku](https://portfolio-jojo.herokuapp.com/)
 
 
 ##Technology used here
